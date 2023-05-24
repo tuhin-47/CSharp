@@ -1,5 +1,15 @@
 /*
+Sample Output:
+--------------
+	X = 0
+	Y = 0
 
+	X = 50
+	Y = 100
+
+	Pair Contents :-
+	 First : 1000
+	 Second : Paired Item
 */
 
 using System;
