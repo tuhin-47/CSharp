@@ -13,7 +13,7 @@ internal class PrimeNumber{
 		return true;
 	}
 	
-	protected i=nt recursiveFactorial(int number){
+	protected int recursiveFactorial(int number){
 		if( n  <= 1)
 			return 1;
 		else
