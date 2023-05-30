@@ -14,10 +14,10 @@ internal class PrimeNumber{
 	}
 	
 	protected int recursiveFactorial(int number){
-		if( n  <= 1)
+		if( number  <= 1)
 			return 1;
 		else
-			return n * recursiveFactorial( n - 1);
+			return number * recursiveFactorial( number - 1);
 	}
 	
 	
